@@ -20,7 +20,7 @@ print(maioridade)
 print('\n----------------------Operadores Relacionais----------------------')
 idade = 13
 maioridade = 18
-print('idade > maioridade: {0}'.format(idade > maioridade))
+print('idade > maioridade: {0}'.format(idade -> maioridade))
 print('idade < maioridade: {0}'.format(idade < maioridade))
 print('idade >= maioridade: {0}'.format(idade >= maioridade))
 print('idade <= maioridade: {0}'.format(idade < maioridade))
